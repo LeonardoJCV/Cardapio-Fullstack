@@ -1,0 +1,6 @@
+2023-12-22 10:00:35,541 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-22 10:02:06,231 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.leonardojcv:cardapio:0.0.1-SNAPSHOT @ C:\Users\leonardojcv\Documents\ProjetoCardapio\cardapioBackend\pom.xml.
+2023-12-22 10:02:09,695 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-22 10:02:09,713 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-22 10:02:09,718 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\leonardojcv\Documents\ProjetoCardapio\cardapioBackend\src\test\resources
+2023-12-22 10:02:54,024 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
