@@ -86,6 +86,7 @@ INDEX VERSION 1.134+C:\Users\leonardojcv\Documents\ProjetoCardapio\.metadata\.pl
 2847333738.index
 2176421930.index
 2289476901.index
+1937893791.index
 1832794759.index
 2477735977.index
 2799033868.index
